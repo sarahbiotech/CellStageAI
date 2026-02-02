@@ -20,7 +20,7 @@ st.set_page_config(
 # ============================================
 # MODEL CONFIGURATION
 # ============================================
-MODEL_PATH = r"D:\Manal\Desktop\predict\best.pt"
+MODEL_PATH = "best.pt"
 
 # Cell types with descriptions
 CELL_TYPES = {
@@ -284,3 +284,4 @@ st.markdown(
 )
 
 # ============================================
+
